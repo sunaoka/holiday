@@ -71,13 +71,6 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
-  '2024-12-24' => 
-  \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Christmas Eve',
-     'date' => '2024-12-24 00:00:00.000000',
-     'timezone_type' => 3,
-     'timezone' => 'UTC',
-  )),
   '2024-12-25' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'Christmas Day',
@@ -89,6 +82,13 @@ return array (
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => 'New Year\'s Day',
      'date' => '2025-01-01 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
+  '2025-01-09' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => 'National Day of Mourning for Jimmy Carter',
+     'date' => '2025-01-09 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
