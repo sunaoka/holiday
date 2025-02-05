@@ -141,6 +141,13 @@ return array (
      'timezone_type' => 3,
      'timezone' => 'UTC',
   )),
+  '2025-01-27' => 
+  \Sunaoka\Holidays\Holiday::__set_state(array(
+     'name' => '설날 연휴',
+     'date' => '2025-01-27 00:00:00.000000',
+     'timezone_type' => 3,
+     'timezone' => 'UTC',
+  )),
   '2025-01-28' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
      'name' => '설날 연휴',

@@ -206,7 +206,7 @@ return array (
   )),
   '2025-01-27' => 
   \Sunaoka\Holidays\Holiday::__set_state(array(
-     'name' => 'Isra Mikraj Nabi Muhammad (belum pasti)',
+     'name' => 'Isra Mikraj Nabi Muhammad',
      'date' => '2025-01-27 00:00:00.000000',
      'timezone_type' => 3,
      'timezone' => 'UTC',
